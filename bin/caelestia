@@ -4,4 +4,4 @@
 
 cd "$(dirname $0)/../src" || exit
 
-python -m caelestia "$@"
+python3 -m caelestia "$@"
